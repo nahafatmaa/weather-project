@@ -1,0 +1,12 @@
+.weather {
+  padding: 20px;
+  font-size: 30px;
+  color: lightskyblue;
+  top: 60px;
+  right: 250px;
+  position: fixed;
+}
+.col {
+  font-size: 25px;
+  color: orange;
+}
